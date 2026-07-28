@@ -1,4 +1,4 @@
-# Financial-Modelling-TrentLTD--Vivek-Darji-
+# Financial-Modelling-Report--Vivek-Darji-
 I'm excited to share my Financial Modelling & Valuation Report on Trent Ltd.
 
 This project involved building a financial model and valuation framework to evaluate Trent Ltd financial performance, growth prospects, and intrinsic value.
